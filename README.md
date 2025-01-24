@@ -1,0 +1,2 @@
+# email.scopely
+awfdaf
